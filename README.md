@@ -1,4 +1,4 @@
-# 🧾 Reading List for Topics in Representation Learning
+# 🧾 Reading List for Topics in learning-based long-horizon goal reaching
 By [Minghao Zhang](https://www.minghaozhang.com). Since I only focus on few directions, so it just covers small number of papers in deep learning areas recently (specifically, those papers are related to RL for robot manipulation). If there is anything wrong and missed, just let me know!
 
 
@@ -6,7 +6,7 @@ By [Minghao Zhang](https://www.minghaozhang.com). Since I only focus on few dire
 * [Core Areas](#core-areas)
   * [Hierarchical approach](#hierarchical-approach)
   * [Combine planning and RL](#combine-planning-and-rl)
-  * [Hindsight for goal reaching](#hindsight-for-goal-reaching)
+  * [Hindsight approach](#hindsight-approach)
   * [End-to-end approach](#end-to-end-approach)
 ## Core Areas
 
@@ -36,7 +36,7 @@ By [Minghao Zhang](https://www.minghaozhang.com). Since I only focus on few dire
 [Search on the Replay Buffer: Bridging Planning and Reinforcement Learning](https://arxiv.org/abs/1906.05253), NeurIPS 2019
 
 
-### Hindsight for goal reaching
+### Hindsight approach
 
 [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088), NeurIPS 2020
 
